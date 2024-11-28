@@ -6,3 +6,7 @@ Recursion Methods
 2. Fibonacci   ->   fibonacci(index - 1) + fibonacci(index - 2);
 
 3. Palindrome   ->   isPalindrome(word.substring(1, word.length() - 1));
+
+4. Selection Sort
+
+5. Binary Search

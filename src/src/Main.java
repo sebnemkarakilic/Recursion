@@ -1,3 +1,5 @@
+import java.lang.annotation.Target;
+
 public class Main {
     public static void main(String[] args) {
         Factorial factorial = new Factorial();
@@ -16,6 +18,9 @@ public class Main {
         int[] intList = {1, 5, 8, 10, 14, 26, 33, 46, 88, 100, 120};
         BinarySearch binarySearch = new BinarySearch();
         binarySearch.recursiveBinarySearch(intList, 88);
+
+        TowersOfHanoi towersOfHanoi = new TowersOfHanoi();
+        towersOfHanoi.towersOfHanoi();
 
 
     }

@@ -10,3 +10,5 @@ Recursion Methods
 4. Selection Sort
 
 5. Binary Search
+
+6. Towers Of Hanoi
